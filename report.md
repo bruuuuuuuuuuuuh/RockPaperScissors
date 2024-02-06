@@ -25,3 +25,17 @@
 ![изображение](https://github.com/bruuuuuuuuuuuuh/RockPaperScissors/assets/70809490/8a5ecf4c-4016-4eb1-89ab-fd5a70b5a5a1)
 
 ![изображение](https://github.com/bruuuuuuuuuuuuh/RockPaperScissors/assets/70809490/64ed5400-cc1d-414b-9972-e38ac20cb9d4)
+
+## Создание ветки и коммит в ней
+
+Вторая ветка в репозитории получила название sideBranch
+
+![изображение](https://github.com/bruuuuuuuuuuuuh/RockPaperScissors/assets/70809490/16c18731-fcab-4ab9-885b-d87cd904a263)
+
+![изображение](https://github.com/bruuuuuuuuuuuuh/RockPaperScissors/assets/70809490/dad02f63-a01e-4a48-820c-0909b65e4d01)
+
+## Мерж ветки main с веткой sideBranch
+
+![изображение](https://github.com/bruuuuuuuuuuuuh/RockPaperScissors/assets/70809490/14f7d335-b910-417a-afd0-d377bb8d1c63)
+
+
